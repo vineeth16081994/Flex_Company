@@ -1,0 +1,7 @@
+com\flexcompany\utilities\Readconfig.class
+com\flexcompany\testcases\TC_LoginTest_002.class
+com\flexcompany\testcases\TC_LoginTest_001.class
+com\flexcompany\pageoojects\LoginPage.class
+com\flexcompany\utilities\XLUtils.class
+com\flexcompany\testcases\Base.class
+com\flexcompany\utilities\Reporting.class
