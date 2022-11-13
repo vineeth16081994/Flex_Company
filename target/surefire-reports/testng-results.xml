@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-23T16:03:48Z" name="Flex-Company" finished-at="2022-10-23T16:04:23Z" duration-ms="35633">
+  <suite started-at="2022-11-13T09:24:55Z" name="Flex-Company" finished-at="2022-11-13T09:25:31Z" duration-ms="35807">
     <groups>
     </groups>
-    <test started-at="2022-10-23T16:03:48Z" name="Test1" finished-at="2022-10-23T16:04:23Z" duration-ms="35633">
+    <test started-at="2022-11-13T09:24:55Z" name="Test1" finished-at="2022-11-13T09:25:31Z" duration-ms="35807">
       <class name="com.flexcompany.testcases.TC_LoginTest_001">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.flexcompany.testcases.TC_LoginTest_001@5a4041cc]" started-at="2022-10-23T16:03:48Z" name="setup" finished-at="2022-10-23T16:03:52Z" duration-ms="4459" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.flexcompany.testcases.TC_LoginTest_001@7f77e91b]" started-at="2022-11-13T09:24:56Z" name="setup" finished-at="2022-11-13T09:24:59Z" duration-ms="2896" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,17 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:0, instance:com.flexcompany.testcases.TC_LoginTest_001@5a4041cc]" started-at="2022-10-23T16:03:52Z" name="loginTest" finished-at="2022-10-23T16:04:06Z" duration-ms="13771" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.flexcompany.testcases.TC_LoginTest_001@7f77e91b]" started-at="2022-11-13T09:24:59Z" name="loginTest" finished-at="2022-11-13T09:25:16Z" duration-ms="17295" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flexcompany.testcases.TC_LoginTest_001@5a4041cc]" started-at="2022-10-23T16:04:06Z" name="tearDown" finished-at="2022-10-23T16:04:06Z" duration-ms="200" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flexcompany.testcases.TC_LoginTest_001@7f77e91b]" started-at="2022-11-13T09:25:16Z" name="tearDown" finished-at="2022-11-13T09:25:17Z" duration-ms="1138" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.flexcompany.testcases.TC_LoginTest_001 -->
       <class name="com.flexcompany.testcases.TC_LoginTest_002">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.flexcompany.testcases.TC_LoginTest_002@15b3e5b]" started-at="2022-10-23T16:04:06Z" name="setup" finished-at="2022-10-23T16:04:10Z" duration-ms="3463" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.flexcompany.testcases.TC_LoginTest_002@44a664f2]" started-at="2022-11-13T09:25:17Z" name="setup" finished-at="2022-11-13T09:25:19Z" duration-ms="2097" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,11 +39,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:0, instance:com.flexcompany.testcases.TC_LoginTest_002@15b3e5b]" started-at="2022-10-23T16:04:10Z" name="loginTest" finished-at="2022-10-23T16:04:23Z" duration-ms="13304" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.flexcompany.testcases.TC_LoginTest_002@44a664f2]" started-at="2022-11-13T09:25:19Z" name="loginTest" finished-at="2022-11-13T09:25:31Z" duration-ms="11955" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flexcompany.testcases.TC_LoginTest_002@15b3e5b]" started-at="2022-10-23T16:04:23Z" name="tearDown" finished-at="2022-10-23T16:04:23Z" duration-ms="218" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.flexcompany.testcases.TC_LoginTest_002@44a664f2]" started-at="2022-11-13T09:25:31Z" name="tearDown" finished-at="2022-11-13T09:25:31Z" duration-ms="201" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
